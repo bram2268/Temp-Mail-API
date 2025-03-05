@@ -1,7 +1,7 @@
 # Temp-Mail-API
 Temp Mail API - API Endpoint for Tempinbox
 
-# The following endpoints are available for interacting with the Tempinbox API.
+## The following endpoints are available for interacting with the Tempinbox API.
 
  
       "method": "GET",
